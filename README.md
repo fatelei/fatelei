@@ -29,7 +29,11 @@
 ### 🐍 My Contributions Snake
 <!-- 这部分是著名的贪吃蛇，需要配合下方的说明配置 Action -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/[Your-GitHub-Username]/[Your-GitHub-Username]/output/github-contribution-grid-snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatelei/fatelei/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatelei/fatelei/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fatelei/fatelei/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
