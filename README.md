@@ -1,14 +1,46 @@
+<!-- 顶部动态波浪效果 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello%20World%20!&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%">
+</p>
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fatelei&theme=darcula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=fatelei&theme=darcula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatelei&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fatelei&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+<!-- 打字机自我介绍效果 -->
+<p align="center">
+  <a href="https://blog.yourname.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F711A2&center=true&vCenter=true&width=435&lines=Hi,+I'm+a+Passionate+Developer;I+turn+coffee+into+code;Always+learning+new+things.">
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fatelei&icon=0&color=1)](https://visitcount.itsvg.in)
 
+### 🛠 My Tech Stack
+<p align="center">
+  <!-- 这里使用了 skill-icons，你可以修改冒号后面的图标名称 -->
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,go,docker,git,linux,vscode,ps" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![Metrics](https://metrics.lecoq.io/fatelei?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+
+
+---
+
+### 🐍 My Contributions Snake
+<!-- 这部分是著名的贪吃蛇，需要配合下方的说明配置 Action -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/[Your-GitHub-Username]/[Your-GitHub-Username]/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
+
+---
+
+### 📫 How to reach me
+<p align="center">
+<a href="mailto:fatelei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[https://twitter.com/your-username](https://x.com/lei74557606)"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://fatelei.github.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=[Your-GitHub-Username]&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
